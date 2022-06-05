@@ -1,5 +1,5 @@
-![alt license](https://img.shields.io/badge/license-GPL%20V3.0-green "GNU GPL")
-![alt language](https://img.shields.io/badge/language-Ruby%20On%20Rails-blue "Ruby On Rails")
+![alt license](https://img.shields.io/badge/License-GPL%20V3.0-green "GNU GPL")
+![alt language](https://img.shields.io/badge/Language-Ruby%20On%20Rails-blue "Ruby On Rails")
 
 README
 ======

@@ -44,18 +44,13 @@ All you need to do is to open a terminal and run the `sqlite3`
 *   [Mac](https://www.newline.co/@Adele/how-to-install-nodejs-and-npm-on-macos--22782681). 
 
 #### Let's get started 
-
 ``` bash
 
-$ rails new Facebook_Clone #rails creates a lot of files and folders for you automatically (Controllers - Models - Views - Tests)
+$ git clone https://github.com/Dina-Adel-1302/Facebook_Clone.git
 
 $ cd Facebook_Clone  #cd: Change working Directory - move to the project directory.
 
 $ rails s  #s: for server - This will get the server up and running on http://127.0.0.1:3000 
-
-$ rails g scaffold user name email age gender #g: for generate - This command generates the table user and crud operations (create - update - destroy - show) for it.
-
-$ rails g scaffold post user_id title description #g: for generate - This command generates the table post and crud operations (create - update - destroy - show) for it.
 
 ```
 

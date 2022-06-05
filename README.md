@@ -22,7 +22,7 @@ Ruby On Rails - simple program to make simple operations on users and posts:
 *   [Windows](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller).    
 *   [Mac](https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/). 
 
-#### Install Rails 
+#### Install Ruby On Rails 
 *   [Ubuntu](https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/). 
 *   [Windows](https://gorails.com/setup/windows/10).    
 *   [Mac](https://gorails.com/setup/osx/11-big-sur). 

@@ -17,33 +17,33 @@ Ruby On Rails - simple program to make simple operations on users and posts:
 *   Show.
 
 ### Installation guide
-####Install Ruby 
+#### Install Ruby 
 *   [Ubuntu](https://www.ruby-lang.org/en/documentation/installation/#package-management-systems "Ruby on Ubuntu"). 
 *   [Windows](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller).    
 *   [Mac](https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/). 
 
-####Install Rails 
+#### Install Rails 
 *   [Ubuntu](https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/). 
 *   [Windows](https://gorails.com/setup/windows/10).    
 *   [Mac](https://gorails.com/setup/osx/11-big-sur). 
 
-####Install sqlite 
+#### Install sqlite 
 *   [Ubuntu](https://linuxhint.com/install-sqlite-ubuntu-linux-mint/). 
 *   [Windows](https://www.sqlitetutorial.net/download-install-sqlite/).    
 *   On macOS, you don’t need to do anything to install sqlite. It’s preinstalled in all modern versions of macOS
 All you need to do is to open a terminal and run the `sqlite3`
 
-####Install visual studio code 
+#### Install visual studio code 
 *   [Ubuntu](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/). 
 *   [Windows](https://code.visualstudio.com/docs/?dv=win).    
 *   [Mac](https://code.visualstudio.com/docs/?dv=osx). 
 
-####Install Node js and NPM
+#### Install Node js and NPM
 *   [Ubuntu](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/). 
 *   [Windows](https://phoenixnap.com/kb/install-node-js-npm-on-windows).    
 *   [Mac](https://www.newline.co/@Adele/how-to-install-nodejs-and-npm-on-macos--22782681). 
 
-####Let's get started 
+#### Let's get started 
 
 ``` bash
 

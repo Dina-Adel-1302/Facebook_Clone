@@ -47,9 +47,9 @@ All you need to do is to open a terminal and run the `sqlite3`
 
 ``` bash
 
-$ rails new Facebook_Clone 
+$ rails new Facebook_Clone #rails creates a lot of files and folders for you automatically (Controllers - Models - Views - Tests)
 
-$ cd Facebook_Clone
+$ cd Facebook_Clone  #cd: Change working Directory - move to the project directory.
 
 $ rails s  #s: for server - This will get the server up and running on http://127.0.0.1:3000 
 

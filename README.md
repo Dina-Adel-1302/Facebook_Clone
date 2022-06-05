@@ -9,7 +9,7 @@ Facebook_Clone
 
 ### Description
 
-Ruby On Rails - simple program to make simple operations on users and posts: 
+Ruby On Rails - simple program to make simple operations on the tables: users and posts: 
 
 *   Create. 
 *   Update.

@@ -53,9 +53,9 @@ $ cd Facebook_Clone
 
 $ rails s  #s: for server - This will get the server up and running on http://127.0.0.1:3000 
 
-$ rails g scaffold user name email age gender #g: for generate - This command generates crud operations (create - update - destroy - show) for the table user 
+$ rails g scaffold user name email age gender #g: for generate - This command generates crud operations (create - update - destroy - show) for the table user.
 
-$ rails g scaffold post user_id title description #g: for generate - This command generates crud operations (create - update - destroy - show) for the table post
+$ rails g scaffold post user_id title description #g: for generate - This command generates crud operations (create - update - destroy - show) for the table post.
 
 ```
 

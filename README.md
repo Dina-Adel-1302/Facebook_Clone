@@ -54,6 +54,6 @@ $ rails s  #s: for server - This will get the server up and running on http://12
 
 ```
 
-#### [Screen Shots](https://github.com/Dina-Adel-1302/Facebook_Clone/blob/main/screen_shots.pdf)
+#### [Screen Shots - rails console](https://github.com/Dina-Adel-1302/Facebook_Clone/blob/main/screen_shots.pdf)
 
 

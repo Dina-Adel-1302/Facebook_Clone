@@ -7,7 +7,7 @@ README
 Facebook_Clone
 ---------------
 
-###Description
+### Description
 
 Ruby On Rails - simple program to make simple operations on users and posts: 
 
@@ -16,7 +16,7 @@ Ruby On Rails - simple program to make simple operations on users and posts:
 *   Destroy.
 *   Show.
 
-###Installation guide
+### Installation guide
 ####Install Ruby 
 *   [Ubuntu](https://www.ruby-lang.org/en/documentation/installation/#package-management-systems "Ruby on Ubuntu"). 
 *   [Windows](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller).    

@@ -59,5 +59,6 @@ $ rails g scaffold post user_id title description #g: for generate - This comman
 
 ```
 
+#### [Screen Shots](https://github.com/Dina-Adel-1302/Facebook_Clone/blob/main/screen_shots.pdf)
 
 

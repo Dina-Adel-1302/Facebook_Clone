@@ -1,6 +1,6 @@
-![alt license](https://img.shields.io/badge/License-GPL%20V3.0-green "GNU GPL")
 ![alt language](https://img.shields.io/badge/Language-Ruby%20On%20Rails-blue "Ruby On Rails")
-![alt language](https://img.shields.io/badge/DB-sqlite-yellowgreen)
+![alt language](https://img.shields.io/badge/DB-sqlite-orange)
+![alt license](https://img.shields.io/badge/License-GPL%20V3.0-green "GNU GPL")
 
 README
 ======

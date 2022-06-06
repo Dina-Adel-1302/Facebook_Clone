@@ -17,6 +17,8 @@ Ruby On Rails - simple program to make basic operations on the tables users and 
 *   Destroy.
 *   Show.
 
+It was a task in a course of Ruby on Rails. 
+
 ### Installation guide
 #### Install Ruby 
 *   [Ubuntu](https://www.ruby-lang.org/en/documentation/installation/#package-management-systems "Ruby on Ubuntu"). 

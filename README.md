@@ -48,7 +48,7 @@ cd Facebook_Clone  #cd: Change working Directory - move to the project directory
 ```
 
 ``` bash
-rails s  #s: for server - This will get the server up and running on http://127.0.0.1:3000 
+rails s  #s: for server - This will get the app up and running on http://localhost:3000 
 ```
 
 #### [Screen Shots - rails console](https://github.com/Dina-Adel-1302/Facebook_Clone/blob/main/screen_shots.pdf)
